@@ -131,3 +131,4 @@
 ## Authors
 
 - Abel Negash
+- Kidus Gizaw
