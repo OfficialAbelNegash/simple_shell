@@ -1,4 +1,5 @@
-# File that list contributors to the simple shell project.
-Abel Negash
- <br><br>
+# This file lists all individuals having contributed content to the repository.
+# For how it is generated, see `hack/generate-authors.sh`.
+
+Abel Negash <abelnegash2015@gmail.com>
 Kidus Gizaw
